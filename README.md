@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Soumya Narayan Badiger<br><br>🎓 AI & ML Undergraduate at MVJ College of Engineering, Bengaluru<br><br>💻 Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Tech Explorer<br><br>🔭 Currently building AI-powered and Full-Stack web applications<br><br>🌱 Learning Generative AI, Machine Learning, AWS & DevOps<br><br>👯 Open to collaborating on AI, ML and Web Development projects<br><br>💬 Ask me about React.js, JavaScript, Python, Node.js, AI/ML and Web Development<br><br>⚡ Fun fact: I enjoy turning innovative ideas into real-world solutions through AI and code.<br><br>📫 Reach me at: **badigersoumya16@gmail.com**
+Soumya Narayan Badiger<br><br>Aspiring AI & Machine Learning Engineer | Full-Stack Developer<br><br>Passionate about building AI-powered products and scalable web applications that create real-world impact.<br><br>Currently pursuing a Bachelor's degree in Artificial Intelligence & Machine Learning at MVJ College of Engineering, Bengaluru.<br><br>Skilled in React.js, JavaScript, Python, Node.js, Machine Learning, and modern web development.<br><br>Always learning, building, and exploring new technologies.<br><br>Open to internships, collaborations, and exciting opportunities in AI, Software Development, and Full-Stack Engineering.
 
 
 ## 🌐 Socials:
