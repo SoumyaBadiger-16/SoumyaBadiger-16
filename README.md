@@ -105,7 +105,7 @@ Generates personalized learning paths using MCP (Model Context Protocol) — an 
 
 If you're hiring for a full-time role, remote internship, or freelance project — I'm open to conversations.
 
-📧 [soumyabadiger16@gmail.com](mailto:badigersoumya16@gmail.com)  
+📧 [badigersoumya16@gmail.com](mailto:badigersoumya16@gmail.com)  
 💼 [linkedin.com/in/soumya-badiger](https://www.linkedin.com/in/soumya-badiger)  
 🐙 You're already here
 
