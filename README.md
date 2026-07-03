@@ -125,11 +125,6 @@ Modern Android game built using React Native + Expo with animations, power-ups, 
 
 ---
 
-## 🏆 GitHub Achievements
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SoumyaBadiger-16&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 # 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SoumyaBadiger-16&show_icons=true&theme=tokyonight&hide_border=true)
