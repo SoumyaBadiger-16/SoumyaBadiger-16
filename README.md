@@ -91,6 +91,10 @@ Generates personalized learning paths using MCP (Model Context Protocol) — an 
 - Contributing to open source projects in the civic tech and EdTech space
 
 ---
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## A few things about me
 
