@@ -138,6 +138,14 @@ Modern Android game built using React Native + Expo with animations, power-ups, 
 # 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   26 mins               ████████████▓░░░░░░░░░░░░   50.78 %
+Bash         16 mins               ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Markdown     5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Python       4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
