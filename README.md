@@ -140,11 +140,11 @@ Modern Android game built using React Native + Expo with animations, power-ups, 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 4 mins          █████████▒░░░░░░░░░░░░░░░   37.87 %
-JavaScript   1 hr 3 mins           ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Git Config   31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Python       31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-TypeScript   26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+JavaScript   2 hrs 8 mins          █████████░░░░░░░░░░░░░░░░   35.99 %
+Markdown     1 hr 11 mins          █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Git Config   31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Python       28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+TypeScript   26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
