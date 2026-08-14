@@ -5,15 +5,18 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-permissions:
-  contents: write
+permissions: {}
 
 jobs:
   update-readme:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - uses: athul/waka-readme@master
+      # Pinned to a full commit SHA: a mutable ref like @master would let any
+      # upstream push run arbitrary code with WAKATIME_API_KEY and write access.
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # master as of 2026-08-14
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
